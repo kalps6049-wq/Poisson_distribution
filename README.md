@@ -68,7 +68,7 @@ else:
    print("The given data cannot be fitted in Poisson Distribution at 1% LOS")
 ```
 
-# Output : 
+# Output :
 
 <img width="637" height="393" alt="595300959-4bdd52dd-a9d7-41cb-9f4c-8b5efb8a16d0" src="https://github.com/user-attachments/assets/73d24215-2c06-4681-b6e7-fce8fa398349" />
 
@@ -77,4 +77,4 @@ else:
 
 The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
  
-# GitHub Source:
+# GitHub Source:https://github.com/kalps6049-wq/Poisson_distribution.git
